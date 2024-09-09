@@ -1,4 +1,4 @@
-(define (domain single-king-domain)
+(define (domain king)
   (:requirements :strips)
   (:predicates
     (at ?p ?x ?y)        ;; The piece ?p is at coordinates ?x, ?y

@@ -1,5 +1,5 @@
 (define (problem single-king-problem)
-  (:domain single-king-domain)
+  (:domain king)
 
   ;; Define objects
   (:objects

@@ -1,4 +1,4 @@
-(define (domain single-knight-domain)
+(define (domain knight)
   (:requirements :strips)
   (:predicates
     (at ?p ?x ?y)                ;; The piece ?p is at coordinates ?x, ?y

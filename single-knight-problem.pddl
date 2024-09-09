@@ -1,5 +1,5 @@
 (define (problem single-knight-problem)
-  (:domain single-knight-domain)
+  (:domain knight)
   (:objects
     knight                      ;; The knight piece
     x1 x2 x3 x4 x5 x6 x7        ;; x-coordinates (1 to 7)
